@@ -6,6 +6,11 @@
  
 ### This repository contains coursework and projects for CIS 3902.
 
-Here is the link to the Linear Regression Example within this repository: https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb
+Here is the link to the Linear Regression Example within this repository: 
+https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Linear_Regression_Example_with_the_Housing_Data.ipynb
 
-Here is the link to the Reading Files into Colab within this repository: https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb
+Here is the link to the Reading Files into Colab within this repository: 
+https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Reading_Files_in_Colab_with_Jupyter_Notebook.ipynb
+
+Here is the link to the Bias Variance Overfitting Fertilizer Crop Yields Assignment within this repository: 
+https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb
