@@ -14,3 +14,6 @@ https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Reading_Files_in_Co
 
 Here is the link to the Bias Variance Overfitting Fertilizer Crop Yields Assignment within this repository: <br>
 https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/bias_variance_overfitting_fertilizer_crop_yield_starter.ipynb
+
+Here is the link to the Regularization In Class Assignment within this repository: <br>
+https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/regularization.ipynb
