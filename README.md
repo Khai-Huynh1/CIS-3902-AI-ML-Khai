@@ -17,3 +17,6 @@ https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/bias_variance_overf
 
 Here is the link to the Regularization In Class Assignment within this repository: <br>
 https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/regularization.ipynb
+
+Here is the link to the Data Cleaning in Class Tutorial within this repository: <br>
+https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Data_Cleaning_Python_Tutorial.ipynb
