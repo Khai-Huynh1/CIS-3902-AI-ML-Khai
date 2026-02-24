@@ -20,3 +20,6 @@ https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/regularization.ipyn
 
 Here is the link to the Data Cleaning in Class Tutorial within this repository: <br>
 https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Data_Cleaning_Python_Tutorial.ipynb
+
+Here is the link to the Data Cleaning Exercise within this repository: <br>
+https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Data_Cleaning_Exercise_Class.ipynb
