@@ -23,3 +23,6 @@ https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Data_Cleaning_Pytho
 
 Here is the link to the Data Cleaning Exercise within this repository: <br>
 https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Data_Cleaning_Exercise_Class.ipynb
+
+Here is the link to the Mushroom Decision Trees Exercise within this repository: <br>
+https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Mushroom_Reduced_Student.ipynb
