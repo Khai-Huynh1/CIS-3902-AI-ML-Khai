@@ -26,3 +26,6 @@ https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Data_Cleaning_Exerc
 
 Here is the link to the Mushroom Decision Trees Exercise within this repository: <br>
 https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Mushroom_Reduced_Student.ipynb
+
+Here is the link to the Random Forest Crime Assignment within this repository: <br>
+https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/random_forest_crime_assignment_(1).ipynb
