@@ -29,3 +29,6 @@ https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Mushroom_Reduced_St
 
 Here is the link to the Random Forest Crime Assignment within this repository: <br>
 https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/random_forest_crime_assignment_(1).ipynb
+
+Here is the link to the AutoViz Assignment within this repository: <br>
+https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Autoviz_(3).ipynb
