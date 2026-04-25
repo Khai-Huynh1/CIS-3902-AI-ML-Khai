@@ -35,3 +35,6 @@ https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Autoviz_(3).ipynb
 
 Here is the link to the Cohen Kappa in Machine Learning Example within this repository: <br>
 https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/cohens_kappa_ml_notebook_(1).ipynb
+
+Here is the link to the Mall Marketing Clustering Assignment within this repository: <br>
+https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Customer_Segmentation_Using_Clustering.ipynb
