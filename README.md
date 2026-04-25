@@ -38,5 +38,7 @@ https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Autoviz_(3).ipynb
 https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/cohens_kappa_ml_notebook_(1).ipynb
 --
 ### Here is the link to the Mall Marketing Clustering Assignment within this repository: <br>
+Using Kmeans algorithms and both univariate and bivariate analysis, clustering analysis was performed on a mall dataset in order to formulate a marketing plan overview. <br>
+
 https://github.com/Khai-Huynh1/CIS-3902-AI-ML-Khai/blob/main/Customer_Segmentation_Using_Clustering.ipynb
 --
